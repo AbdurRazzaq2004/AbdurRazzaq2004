@@ -309,44 +309,6 @@ Highlights:
 
 ---
 
-## 🏆 Certifications & Credentials
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<br><br>
-<img width="100" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>
-<br>
-<sub><b>AWS Solutions Architect</b></sub>
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/GitHub-Foundations_Certified-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<br><br>
-<img width="100" src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"/>
-<br>
-<sub><b>GitHub Foundations</b></sub>
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/Azure-Fundamentals_AZ--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-<br><br>
-<img width="100" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
-<br>
-<sub><b>Azure Fundamentals</b></sub>
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
 <div align="center">
   
 ### 💬 Let's Connect!
