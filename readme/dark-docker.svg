@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
+  <defs>
+    <linearGradient id="darkCardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#161B22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D1117;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="600" height="300" rx="20" fill="url(#darkCardBg)"/>
+  <rect x="2" y="2" width="596" height="296" rx="18" fill="none" stroke="#2496ED" stroke-width="2" opacity="0.5"/>
+  
+  <!-- Docker Logo -->
+  <g transform="translate(50, 90)">
+    <!-- Whale body -->
+    <rect x="20" y="40" width="100" height="45" rx="8" fill="#2496ED"/>
+    <!-- Containers on whale -->
+    <rect x="25" y="20" width="18" height="22" rx="2" fill="#2496ED"/>
+    <rect x="46" y="20" width="18" height="22" rx="2" fill="#2496ED"/>
+    <rect x="67" y="20" width="18" height="22" rx="2" fill="#2496ED"/>
+    <rect x="88" y="20" width="18" height="22" rx="2" fill="#2496ED"/>
+    <rect x="46" y="-5" width="18" height="22" rx="2" fill="#2496ED"/>
+    <rect x="67" y="-5" width="18" height="22" rx="2" fill="#2496ED"/>
+    <!-- Whale tail -->
+    <ellipse cx="10" cy="55" rx="15" ry="20" fill="#2496ED"/>
+  </g>
+  
+  <!-- Text Content -->
+  <text x="200" y="80" font-family="Arial, sans-serif" font-size="28" fill="#ffffff" font-weight="bold">Docker Templates</text>
+  <text x="200" y="110" font-family="Arial, sans-serif" font-size="16" fill="#8B949E">Containerize with confidence</text>
+  
+  <text x="200" y="150" font-family="Arial, sans-serif" font-size="14" fill="#C9D1D9">
+    <tspan x="200" dy="0">🐳 Multi-stage Dockerfile templates</tspan>
+    <tspan x="200" dy="25">🔧 Docker Compose configurations</tspan>
+    <tspan x="200" dy="25">🛡️ Security-hardened base images</tspan>
+    <tspan x="200" dy="25">📏 Best practices for image optimization</tspan>
+  </text>
+  
+  <!-- Tags -->
+  <g transform="translate(30, 260)">
+    <rect x="0" y="0" width="60" height="25" rx="12" fill="#2496ED" opacity="0.3"/>
+    <text x="30" y="17" font-family="Arial, sans-serif" font-size="12" fill="#2496ED" text-anchor="middle">Docker</text>
+    
+    <rect x="70" y="0" width="90" height="25" rx="12" fill="#066DA5" opacity="0.3"/>
+    <text x="115" y="17" font-family="Arial, sans-serif" font-size="12" fill="#2496ED" text-anchor="middle">Compose</text>
+    
+    <rect x="170" y="0" width="80" height="25" rx="12" fill="#10B981" opacity="0.3"/>
+    <text x="210" y="17" font-family="Arial, sans-serif" font-size="12" fill="#10B981" text-anchor="middle">Multi-stage</text>
+  </g>
+  
+  <!-- Arrow indicator -->
+  <text x="550" y="160" font-family="Arial, sans-serif" font-size="24" fill="#2496ED">→</text>
+</svg>

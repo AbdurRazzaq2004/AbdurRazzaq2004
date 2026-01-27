@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
+  <defs>
+    <linearGradient id="lightCardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f6f8fa;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="600" height="300" rx="20" fill="url(#lightCardBg)"/>
+  <rect x="2" y="2" width="596" height="296" rx="18" fill="none" stroke="#2088FF" stroke-width="2" opacity="0.5"/>
+  
+  <!-- CI/CD Pipeline Icon -->
+  <g transform="translate(50, 100)">
+    <!-- Pipeline circles -->
+    <circle cx="30" cy="40" r="20" fill="#2088FF"/>
+    <circle cx="80" cy="40" r="20" fill="#10B981"/>
+    <circle cx="130" cy="40" r="20" fill="#F59E0B"/>
+    
+    <!-- Arrows between -->
+    <line x1="52" y1="40" x2="58" y2="40" stroke="#24292f" stroke-width="3"/>
+    <line x1="102" y1="40" x2="108" y2="40" stroke="#24292f" stroke-width="3"/>
+    
+    <!-- Icons in circles -->
+    <text x="30" y="45" font-family="Arial" font-size="16" fill="#ffffff" text-anchor="middle">⚡</text>
+    <text x="80" y="45" font-family="Arial" font-size="16" fill="#ffffff" text-anchor="middle">🔨</text>
+    <text x="130" y="45" font-family="Arial" font-size="16" fill="#ffffff" text-anchor="middle">🚀</text>
+  </g>
+  
+  <!-- Text Content -->
+  <text x="200" y="80" font-family="Arial, sans-serif" font-size="28" fill="#24292f" font-weight="bold">CI/CD Pipelines</text>
+  <text x="200" y="110" font-family="Arial, sans-serif" font-size="16" fill="#57606a">Automate everything, deploy anywhere</text>
+  
+  <text x="200" y="150" font-family="Arial, sans-serif" font-size="14" fill="#24292f">
+    <tspan x="200" dy="0">🔄 GitHub Actions workflow templates</tspan>
+    <tspan x="200" dy="25">🏗️ Jenkins pipeline examples</tspan>
+    <tspan x="200" dy="25">📦 GitLab CI/CD configurations</tspan>
+    <tspan x="200" dy="25">🎯 Azure DevOps pipeline YAMLs</tspan>
+  </text>
+  
+  <!-- Tags -->
+  <g transform="translate(30, 260)">
+    <rect x="0" y="0" width="110" height="25" rx="12" fill="#2088FF" opacity="0.2"/>
+    <text x="55" y="17" font-family="Arial, sans-serif" font-size="12" fill="#2088FF" text-anchor="middle">GitHub Actions</text>
+    
+    <rect x="120" y="0" width="60" height="25" rx="12" fill="#D24939" opacity="0.2"/>
+    <text x="150" y="17" font-family="Arial, sans-serif" font-size="12" fill="#D24939" text-anchor="middle">Jenkins</text>
+    
+    <rect x="190" y="0" width="60" height="25" rx="12" fill="#FC6D26" opacity="0.2"/>
+    <text x="220" y="17" font-family="Arial, sans-serif" font-size="12" fill="#FC6D26" text-anchor="middle">GitLab</text>
+  </g>
+  
+  <!-- Arrow indicator -->
+  <text x="550" y="160" font-family="Arial, sans-serif" font-size="24" fill="#2088FF">→</text>
+</svg>

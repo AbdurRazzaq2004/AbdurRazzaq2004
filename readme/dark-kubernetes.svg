@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
+  <defs>
+    <linearGradient id="darkCardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#161B22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D1117;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="600" height="300" rx="20" fill="url(#darkCardBg)"/>
+  <rect x="2" y="2" width="596" height="296" rx="18" fill="none" stroke="#326CE5" stroke-width="2" opacity="0.5"/>
+  
+  <!-- Kubernetes Logo -->
+  <g transform="translate(80, 100)">
+    <circle cx="40" cy="40" r="35" fill="none" stroke="#326CE5" stroke-width="4"/>
+    <circle cx="40" cy="40" r="12" fill="#326CE5"/>
+    <g stroke="#326CE5" stroke-width="4">
+      <line x1="40" y1="5" x2="40" y2="-5"/>
+      <line x1="70" y1="22" x2="78" y2="17"/>
+      <line x1="70" y1="58" x2="78" y2="63"/>
+      <line x1="40" y1="75" x2="40" y2="85"/>
+      <line x1="10" y1="58" x2="2" y2="63"/>
+      <line x1="10" y1="22" x2="2" y2="17"/>
+    </g>
+  </g>
+  
+  <!-- Text Content -->
+  <text x="200" y="80" font-family="Arial, sans-serif" font-size="28" fill="#ffffff" font-weight="bold">Kubernetes Manifests</text>
+  <text x="200" y="110" font-family="Arial, sans-serif" font-size="16" fill="#8B949E">Production-ready K8s configurations</text>
+  
+  <text x="200" y="150" font-family="Arial, sans-serif" font-size="14" fill="#C9D1D9">
+    <tspan x="200" dy="0">⚙️ Deployment, Service, Ingress templates</tspan>
+    <tspan x="200" dy="25">🔒 Security best practices included</tspan>
+    <tspan x="200" dy="25">📊 Monitoring & observability configs</tspan>
+    <tspan x="200" dy="25">🎯 Helm charts and Kustomize overlays</tspan>
+  </text>
+  
+  <!-- Tags -->
+  <g transform="translate(30, 260)">
+    <rect x="0" y="0" width="85" height="25" rx="12" fill="#326CE5" opacity="0.3"/>
+    <text x="42" y="17" font-family="Arial, sans-serif" font-size="12" fill="#326CE5" text-anchor="middle">Kubernetes</text>
+    
+    <rect x="95" y="0" width="50" height="25" rx="12" fill="#0F1689" opacity="0.3"/>
+    <text x="120" y="17" font-family="Arial, sans-serif" font-size="12" fill="#5C6BC0" text-anchor="middle">Helm</text>
+    
+    <rect x="155" y="0" width="75" height="25" rx="12" fill="#10B981" opacity="0.3"/>
+    <text x="192" y="17" font-family="Arial, sans-serif" font-size="12" fill="#10B981" text-anchor="middle">Kustomize</text>
+  </g>
+  
+  <!-- Arrow indicator -->
+  <text x="550" y="160" font-family="Arial, sans-serif" font-size="24" fill="#326CE5">→</text>
+</svg>

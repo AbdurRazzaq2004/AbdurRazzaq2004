@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 120">
+  <defs>
+    <linearGradient id="twitterGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1DA1F2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D8ECF;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="120" rx="15" fill="url(#twitterGrad)"/>
+  <g transform="translate(110, 25)">
+    <path fill="#ffffff" d="M80 17.5c-2.9 1.3-6 2.2-9.3 2.6 3.3-2 5.9-5.2 7.1-9-3.1 1.9-6.6 3.2-10.2 3.9-3-3.2-7.2-5.2-11.9-5.2-9 0-16.3 7.3-16.3 16.3 0 1.3.1 2.5.4 3.7-13.5-.7-25.5-7.2-33.5-17-1.4 2.4-2.2 5.2-2.2 8.1 0 5.7 2.9 10.7 7.3 13.6-2.7-.1-5.2-.8-7.4-2v.2c0 7.9 5.6 14.5 13.1 16-1.4.4-2.8.6-4.3.6-1.1 0-2.1-.1-3.1-.3 2.1 6.5 8.1 11.2 15.3 11.4-5.6 4.4-12.7 7-20.4 7-1.3 0-2.6-.1-3.9-.2 7.3 4.7 15.9 7.4 25.2 7.4 30.2 0 46.7-25 46.7-46.7 0-.7 0-1.4-.1-2.1 3.2-2.4 6-5.3 8.2-8.6z"/>
+  </g>
+  <text x="150" y="105" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold">Follow on X</text>
+</svg>

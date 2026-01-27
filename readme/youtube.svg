@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 120">
+  <defs>
+    <linearGradient id="youtubeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF0000;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#CC0000;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="120" rx="15" fill="url(#youtubeGrad)"/>
+  <g transform="translate(105, 15)">
+    <path fill="#ffffff" d="M90 35c0-9.9-8.1-18-18-18H18C8.1 17 0 25.1 0 35v20c0 9.9 8.1 18 18 18h54c9.9 0 18-8.1 18-18V35zM36 62V28l24 17-24 17z"/>
+  </g>
+  <text x="150" y="105" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold">Watch on YouTube</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 120">
+  <defs>
+    <linearGradient id="linkedinGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0077B5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#005582;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="120" rx="15" fill="url(#linkedinGrad)"/>
+  <g transform="translate(115, 20)">
+    <path fill="#ffffff" d="M20 0H50C61 0 70 9 70 20V50C70 61 61 70 50 70H20C9 70 0 61 0 50V20C0 9 9 0 20 0ZM15 55H25V27H15V55ZM20 23C23.3 23 26 20.3 26 17C26 13.7 23.3 11 20 11C16.7 11 14 13.7 14 17C14 20.3 16.7 23 20 23ZM55 55H45V41C45 37.4 44.4 33 39.5 33C34.5 33 33.5 36.6 33.5 40.7V55H23.5V27H33V30.8H33.2C34.8 27.8 38.5 25 44 25C54.5 25 55 31.5 55 39V55Z"/>
+  </g>
+  <text x="150" y="105" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold">Connect on LinkedIn</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 120">
+  <defs>
+    <linearGradient id="devopsGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366F1;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#EC4899;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="infinityGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#10B981;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#3B82F6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8B5CF6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="120" rx="15" fill="url(#devopsGrad)"/>
+  
+  <!-- DevOps Infinity Symbol -->
+  <g transform="translate(100, 25)">
+    <path fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" d="M50 30 C30 10, 10 10, 10 30 C10 50, 30 50, 50 30 C70 10, 90 10, 90 30 C90 50, 70 50, 50 30"/>
+    <!-- Gear on left loop -->
+    <circle cx="25" cy="30" r="8" fill="#ffffff" opacity="0.9"/>
+    <circle cx="25" cy="30" r="4" fill="url(#devopsGrad)"/>
+    <!-- Code brackets on right loop -->
+    <text x="75" y="35" font-family="monospace" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold">&lt;/&gt;</text>
+  </g>
+  
+  <text x="150" y="90" font-family="Arial, sans-serif" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold">Abdur Razzaq</text>
+  <text x="150" y="110" font-family="Arial, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle" opacity="0.9">DevOps Engineer</text>
+</svg>
