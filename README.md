@@ -20,7 +20,7 @@
 <h1 align="center">Hi there, I'm Abdur Razzaq 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=AWS+DevOps+Engineer;Cloud+Infrastructure+Architect;CI%2FCD+%26+Automation+Specialist;Kubernetes+%26+Docker+Expert;Infrastructure+as+Code+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=DevOps+Engineer;DevSecOps+Engineer;Cloud%3A+AWS%2C+Azure%2C+Google;Shift+Left+Security" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -33,18 +33,123 @@
   <img src="https://img.shields.io/badge/Upwork-Rising_Talent-6FDA44?style=flat-square&logo=upwork" alt="Upwork"/>
 </p>
 
+---
+
+## 👨‍💻 About Me
+
+<img align="right" alt="DevOps Animation" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+**Assalam O Alaikum!** I'm **Abdur Razzaq**, a **DevSecOps Engineer** with 1+ years of experience specializing in **security-first software delivery** across multi-cloud environments (AWS, Azure, Huawei Cloud).
+
+🛡️ **What I specialize in:**
+- 🔒 **Shift-Left Security** — Security integration at every SDLC phase
+- 🔍 **Security Testing** — SAST, DAST, SCA (SonarQube, Trivy, OWASP)
+- ⚡ **CI/CD Pipelines** — 65% optimization, 80% fewer deployment failures
+- 📦 **Container Security** — Docker best practices & vulnerability scanning
+- 📊 **Observability** — Prometheus, Grafana, Loki, Jaeger, OpenTelemetry
+- ☁️ **Multi-Cloud** — AWS, Azure, Huawei Cloud infrastructure
+
+<br clear="right"/>
+
+---
+
+## 💼 Professional Experience
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=1%2B+Years+of+DevSecOps+Excellence;Reduced+Deployment+Failures+by+80%25;Optimized+CI%2FCD+Pipelines+by+65%25;100%25+Client+Satisfaction+Rate" alt="Experience" />
+</div>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🏢 DevOps Engineer
+<img src="https://img.shields.io/badge/AntonX_(Pvt)_Limited-FF6B6B?style=for-the-badge" alt="AntonX"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=aws,azure,prometheus,grafana,docker,github&theme=dark" alt="Tech"/>
+<br><br>
+<img src="https://img.shields.io/badge/📍_Onsite-blue?style=flat-square"/> <img src="https://img.shields.io/badge/🕒_Oct_2025–Present-green?style=flat-square"/> <img src="https://img.shields.io/badge/💼_Full--Time-success?style=flat-square"/>
+<br><br>
+
+```yaml
+Key Achievements:
+  - 65% CI/CD pipeline optimization
+  - Multi-cloud: AWS, Azure, Huawei
+  - Full observability stack deployed
+  - SonarQube & Trivy integration
+  
+Responsibilities:
+  - Grafana + Prometheus + Loki stack
+  - Automated DB backups (Azure Blob)
+  - SSL/TLS & CORS issue resolution
+  - GitHub branch protection & GitOps
+```
+
+</td>
+<td align="center" width="50%">
+
+### 👥 DevOps Engineer & Team Lead
+<img src="https://img.shields.io/badge/VisionBotix-8B5CF6?style=for-the-badge" alt="VisionBotix"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=aws,jenkins,kubernetes,terraform,docker,github&theme=dark" alt="Tech"/>
+<br><br>
+<img src="https://img.shields.io/badge/📍_Remote-blue?style=flat-square"/> <img src="https://img.shields.io/badge/🕒_Apr_2024–Apr_2025-green?style=flat-square"/> <img src="https://img.shields.io/badge/💼_Full--Time-success?style=flat-square"/>
+<br><br>
+
+```yaml
+Key Achievements:
+  - Led & mentored DevOps internees
+  - Established org-wide best practices
+  - Enhanced security with IAM & RBAC
+  
+Responsibilities:
+  - AWS infrastructure optimization
+  - Jenkins & GitHub Actions CI/CD
+  - Docker & Kubernetes (EKS)
+  - Terraform & CloudFormation IaC
+  - CloudWatch & Prometheus monitoring
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<br>
+
+### 🌍 AWS DevOps Engineer — Freelancer
+<a href="https://www.upwork.com/freelancers/~01f45ba2b78dcb8e1a">
+  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+</a>
+<br><br>
+<img src="https://img.shields.io/badge/🌍_Global_Clients-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📅_Dec_2023–Present-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⭐_Rising_Talent-6FDA44?style=for-the-badge"/>
+<br><br>
+
+```yaml
+Highlights:
+  - 100% client satisfaction with 5-star reviews
+  - AWS infrastructure design & cloud migrations
+  - CI/CD implementation for international clients
+```
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,jenkins,github&theme=dark" alt="Freelance Tech"/>
+
+</div>
+
+---
+
 <div align="center">
 
 ## 🚀 Highlight Projects
 
 | Project | Tech Stack | Description |
 |:--------|:-----------|:------------|
-| 🏗️ **[Three-Tier MERN Stack on AWS EKS](https://github.com/AbdurRazzaq2004)** | ![MERN](https://img.shields.io/badge/MERN-00D8FF?style=flat-square&logo=react&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white) ![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white) | End-to-end CI/CD for cloud-native web apps |
-| 📊 **[Cloud Monitoring Platform](https://github.com/AbdurRazzaq2004)** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![K8s](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | Real-time infra monitoring with custom dashboards |
-| 🔔 **[CI/CD for Uptime Kuma](https://github.com/AbdurRazzaq2004)** | ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Alerts](https://img.shields.io/badge/Alerts-FF6B6B?style=flat-square&logo=opsgenie&logoColor=white) | Automated health checks + downtime notifications |
-| 🚀 **[Flask App on AWS Beanstalk](https://github.com/AbdurRazzaq2004)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Beanstalk](https://img.shields.io/badge/Beanstalk-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | Load-balanced scalable deployment |
-| 🌐 **[Amazon Translate Pipeline](https://github.com/AbdurRazzaq2004)** | ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white) ![Translate](https://img.shields.io/badge/Translate-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | Batch document translation in the cloud |
-| 🗄️ **[MySQL with RDS](https://github.com/AbdurRazzaq2004)** | ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | Secure and HA DB setup with backups |
+| 🛡️ **[Production DevSecOps Pipeline](https://github.com/AbdurRazzaq2004)** | ![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) | **FYP** — Secure CI/CD with GitOps & security scanning |
+| 📊 **[Enterprise Observability Platform](https://github.com/AbdurRazzaq2004)** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white) ![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=flat-square&logo=jaeger&logoColor=white) | Reduced MTTR by 70% with full-stack monitoring |
+| ⚡ **[CI/CD Pipeline Optimization](https://github.com/AbdurRazzaq2004)** | ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![ECR](https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | 65% faster pipelines with SAST/SCA integration |
+| 💾 **[Automated DB Backup System](https://github.com/AbdurRazzaq2004)** | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Azure](https://img.shields.io/badge/Azure_Blob-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | 99.9% backup success rate, zero data loss |
 
 <br>
 
@@ -201,6 +306,44 @@
 </td>
 </tr>
 </table>
+
+---
+
+## 🏆 Certifications & Credentials
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<br><br>
+<img width="100" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>
+<br>
+<sub><b>AWS Solutions Architect</b></sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/GitHub-Foundations_Certified-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<br><br>
+<img width="100" src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"/>
+<br>
+<sub><b>GitHub Foundations</b></sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Azure-Fundamentals_AZ--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<br><br>
+<img width="100" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
+<br>
+<sub><b>Azure Fundamentals</b></sub>
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
