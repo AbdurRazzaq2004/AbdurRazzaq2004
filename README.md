@@ -83,6 +83,7 @@
 | 🛡️ [**DevSecOps Pipeline**](https://github.com/AbdurRazzaq2004/DevSecOps-Project) | EKS, Jenkins, ArgoCD, Terraform, Trivy, SonarQube | End to end secure CI/CD with GitOps, SAST/DAST scanning, and Kubernetes deployment |
 | 🔒 [**Security Agent**](https://github.com/AbdurRazzaq2004/Security-Agent) | Python, Docker, Trivy, Semgrep, Gitleaks, Checkov, OWASP ZAP | Containerized security scanner running 5 tools with unified HTML reporting (277 tests) |
 | ☁️ [**Terraform Work**](https://github.com/AbdurRazzaq2004/My-Terraform-Work) | Terraform, Azure, AWS, HCL | 9 lessons, 4 projects, and 34 reusable modules for AWS & Azure |
+| 📚 [**DevSecOps Knowledge Base**](https://github.com/AbdurRazzaq2004/AntonX) | Azure, Docker, Prometheus, Loki, Nginx, MySQL, BBB | 200+ files: cloud docs, monitoring setup, DB automation, security guides, troubleshooting playbook |
 | 🐳 [**Docker Projects**](https://github.com/AbdurRazzaq2004/Docker-Projects) | Docker, Docker Compose, Multi stage builds | Docker labs and containerization projects |
 | ☸️ [**Kubernetes Project**](https://github.com/AbdurRazzaq2004/Kubernetes-Project) | Kubernetes, EKS, Helm, kubectl | Kubernetes labs, deployments, services, and cluster management |
 | 🚀 [**AWS Projects**](https://github.com/AbdurRazzaq2004/AWS-Projects) | AWS, Python, CloudFormation | Real world AWS projects with documentation |
