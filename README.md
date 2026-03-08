@@ -19,11 +19,11 @@
 
 **DevSecOps Engineer** with 2+ years of experience building **security first CI/CD pipelines** and managing **multi cloud infrastructure** (AWS, Azure, Huawei Cloud).
 
-- Shift Left Security — SAST, DAST, SCA at every pipeline stage
-- CI/CD — 65% pipeline optimization, 80% fewer deployment failures
-- Container Security — Docker hardening, image scanning, Kubernetes RBAC
-- Observability — Prometheus, Grafana, Loki, Jaeger, OpenTelemetry
-- IaC — Terraform, Ansible, CloudFormation across 3 cloud providers
+- Shift Left Security: SAST, DAST, SCA at every pipeline stage
+- CI/CD: 65% pipeline optimization, 80% fewer deployment failures
+- Container Security: Docker hardening, image scanning, Kubernetes RBAC
+- Observability: Prometheus, Grafana, Loki, Jaeger, OpenTelemetry
+- IaC: Terraform, Ansible, CloudFormation across 3 cloud providers
 - 100% client satisfaction on Upwork (Rising Talent)
 
 📍 Islamabad, Pakistan &nbsp;|&nbsp; 🌍 Available for remote work
