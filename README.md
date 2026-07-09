@@ -195,25 +195,17 @@ Take models from experiment to production: experiment tracking and registries, m
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdurRazzaq2004&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&icon_color=8b5cf6&text_color=ffffff&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AbdurRazzaq2004&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&icon_color=8b5cf6&text_color=ffffff&rank_icon=github" height="165" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://streak-stats.demolab.com/?user=AbdurRazzaq2004&theme=tokyonight&hide_border=true&background=0D1117&stroke=3b82f6&ring=8b5cf6&fire=ec4899&currStreakLabel=3b82f6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurRazzaq2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=ffffff" height="165" alt="Top Languages"/>
 
-<br>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurRazzaq2004&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=ffffff" height="165"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurRazzaq2004&bg_color=0d1117&color=3b82f6&line=8b5cf6&point=ec4899&area=true&area_color=3b82f6&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbdurRazzaq2004&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=AbdurRazzaq2004&theme=tokyonight&hide_border=true&background=0D1117&stroke=3b82f6&ring=8b5cf6&fire=ec4899&currStreakLabel=3b82f6" height="165" alt="GitHub Streak"/>
 
 </div>
 
