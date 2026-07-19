@@ -23,7 +23,7 @@
 - **DevSecOps** — shift-left security: secret management, image/IaC/dependency scanning, policy-as-code, service-mesh mTLS, and supply-chain hardening.
 - **MLOps** — model tracking and registries, model serving, drift monitoring, LLM observability, and reproducible ML pipelines.
 
-📍 Islamabad, Pakistan &nbsp;|&nbsp; 🌍 Open to remote work
+📍 Islamabad, Pakistan &nbsp;|&nbsp;
 
 <br clear="right"/>
 
