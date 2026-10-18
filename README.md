@@ -105,7 +105,7 @@ Take models from experiment to production: experiment tracking and registries, m
 </table>
 
 <p align="center">
-  <b>Cloud / DevOps Freelancer</b> · <a href="https://www.upwork.com/freelancers/~01f45ba2b78dcb8e1a">Upwork</a> · Dec 2023 — Present · ⭐ Rising Talent
+  <b>Cloud / DevOps Freelancer</b>
   <br><sub>Cloud infrastructure, CI/CD, and automation for international clients</sub>
 </p>
 
